@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "faivelo": {
+      "url": "https://faivelo.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${FAIVELO_API_KEY}"
+      }
+    }
+  }
+}

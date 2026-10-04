@@ -1,0 +1,7 @@
+{
+  "name": "faivelo-webhook-receiver",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "faivelo": "^0.6.0" }
+}
